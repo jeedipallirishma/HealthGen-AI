@@ -1,4 +1,4 @@
-# 🩺 HealthGen AI - Intelligent Health RAG Assistant
+# 🩺 HealthGen-AI – Machine learning based health prediction system.
 
 ## 📌 Overview
 **HealthGen AI** is a Retrieval-Augmented Generation (RAG) AI assistant designed to answer health-related questions using trusted PDF documents (WHO, CDC, NIH, etc.).  
